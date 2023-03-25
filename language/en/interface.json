@@ -1185,7 +1185,7 @@
 				"teamplatter_opacity": "opacity",
 				"teamplatter_opacity_descr": "Set the opacity of the team spotters",
 				"teamplatter_skipownteam": "skip own units",
-				"teamplatter_skipownteam_descr": "Doesnt draw platters for yourself",
+				"teamplatter_skipownteam_descr": "Doesn't draw platters for yourself",
 				"enemyspotter": "Enemy spotters",
 				"enemyspotter_descr": "Draws smoothed circles under enemy units\n\nDisables when enemy is single colored or alone",
 				"enemyspotter_opacity": "opacity",
